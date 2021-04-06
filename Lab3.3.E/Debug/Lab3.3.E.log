@@ -1,0 +1,4 @@
+﻿  lab3.3.E.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.E\Lab3.3.E\Lorry.h(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.E\Lab3.3.E\lab3.3.E.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Lab3.3.E.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Lab3.3.E\Debug\Lab3.3.E.exe
